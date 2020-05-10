@@ -1,0 +1,15 @@
+1. Download the Git for windows from the following link and install
+   https://gitforwindows.org/
+2. Open Git bash
+3. cd to the folder in local where you want to hold the project
+3. Clone the project to the local folder kaggleCompetition by useing the following command
+   git clone https://github.com/xuelicao/kaggleCompetition1.git kaggleCompetition
+4. Check the status of the files
+   git status
+5. Create or update the code
+6. Add the changes to commit
+   git add *
+7. commit the changes
+   git commit -m "commit comment here"
+8. push to the github
+   git push
