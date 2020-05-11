@@ -13,3 +13,6 @@
    git commit -m "commit comment here"
 8. push to the github
    git push
+
+Note.
+Before each commit, need to pull the changes first use git pull.
