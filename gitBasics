@@ -13,6 +13,10 @@
    git commit -m "commit comment here"
 8. push to the github
    git push
+9. One way to solve the confilict when pulling: 
+   Delete the conflicting files (backup first). 
+   Then use git reset --hard
+   then git pull can pull the most recent files.
 
 Note.
 Before each commit, need to pull the changes first use git pull.
